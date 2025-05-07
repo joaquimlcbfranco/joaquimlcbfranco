@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquimlcbfranco" alt="joaquimlcbfranco" /></a> </p>
 
-- 🌱 Currently learning: **HTML, CSS, JavaScript**
+- 🌱 Currently learning // Already learned: **React // HTML, CSS, JavaScript **
 
-- 🔭 Next on the list: **React, Node.js, Java**
+- 🔭 Next on the list: **Node.js, Express, PostgreSQL, Java**
 
 - 📫 My e-mail: **joaquimlcbfranco@gmail.com**
 
