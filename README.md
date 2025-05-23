@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Joaquim</h1>
 <h3 align="center">Passionate self-learner from Portugal! Actively looking for a job in web development roles (full-stack/front-end/back-end).</h3>
-<h3 align="center">Make sure to visit my portfolio: https://joaquimlcbfranco.github.io/</h3>
+<!--<h3 align="center">Make sure to visit my portfolio: https://joaquimlcbfranco.github.io/</h3>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joaquimlcbfranco" alt="joaquimlcbfranco" /></a> </p>
 
