@@ -6,7 +6,7 @@
 
 - 🌱 Currently learning // Already learned: **React // HTML, CSS, JavaScript**
 
-- 🔭 Next on the list: **Node.js, Express, PostgreSQL, Java**
+- 🔭 Next on the list: **Node.js, Express, PostgreSQL, DSA & Algorithms Course, Java**
 
 - 📫 My e-mail: **joaquimlcbfranco@gmail.com**
 
