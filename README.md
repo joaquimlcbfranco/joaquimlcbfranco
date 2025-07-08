@@ -2,9 +2,9 @@
 <h3 align="center">Passionate self-learner from Portugal! Actively looking for a job in software development roles (full-stack/front-end/back-end).</h3>
 <!--<h3 align="center">Make sure to visit my portfolio: https://joaquimlcbfranco.github.io/</h3>-->
 
-- 🌱 Currently learning // Already learned: **Java // HTML, CSS, JavaScript, React, SQL Server**
+- 🌱 Currently learning // Already learned: **Spring & Java // HTML, CSS, JavaScript, React, SQL Server**
 
-- 🔭 Next on the list: **Spring, PostgreSQL, DSA & Algorithms Course, Node.js, Express**
+- 🔭 Next on the list: **PostgreSQL, DSA & Algorithms Course, Node.js, Express**
 
 - 📫 My e-mail: **joaquimlcbfranco@gmail.com**
 
