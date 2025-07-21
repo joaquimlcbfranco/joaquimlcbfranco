@@ -4,7 +4,7 @@
 
 - 🌱 Currently learning // Already learned: **Spring & Java // HTML, CSS, JavaScript, React, SQL Server**
 
-- 🔭 Next on the list: **PostgreSQL, DSA Course, Node.js, Express**
+- 🔭 Next on the list: **DSA Course**
 
 - 📫 My e-mail: **joaquimlcbfranco@gmail.com**
 
